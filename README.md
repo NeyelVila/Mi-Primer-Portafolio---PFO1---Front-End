@@ -9,6 +9,7 @@ Este proyecto consiste en el desarrollo de una **Landing Page de Portafolio Pers
 ## 🚀 Demo del proyecto
 
 🔗 **Web publicada:**
+
 🔗 **Repositorio:**
 
 ---
