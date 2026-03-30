@@ -13,18 +13,6 @@ Este proyecto consiste en el desarrollo de una **Landing Page de Portafolio Pers
 
 ---
 
-## 🧱 Estructura del Proyecto
-
-mi-portafolio/
-│
-├── index.html
-├── README.md
-├── css/
-│ └── styles.css
-└── img/
-
----
-
 ## ✅ Checklist de Requerimientos
 
 ### 📁 Estructura del Proyecto
