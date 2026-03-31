@@ -8,20 +8,9 @@ Este proyecto consiste en el desarrollo de una **Landing Page de Portafolio Pers
 
 ## 🚀 Demo del proyecto
 
-🔗 **Web publicada:**
-🔗 **Repositorio:**
+🔗 **Web publicada:** https://neyelvila.github.io/Mi-Primer-Portafolio---PFO1---Front-End/
 
----
-
-## 🧱 Estructura del Proyecto
-
-mi-portafolio/
-│
-├── index.html
-├── README.md
-├── css/
-│ └── styles.css
-└── img/
+🔗 **Repositorio:** https://github.com/NeyelVila/Mi-Primer-Portafolio---PFO1---Front-End.git
 
 ---
 
