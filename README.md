@@ -27,8 +27,8 @@ Este proyecto consiste en el desarrollo de una **Landing Page de Portafolio Pers
 
 - [x] Repositorio en GitHub creado
 - [x] Proyecto subido correctamente
-- [ ] Proyecto publicado en GitHub Pages
-- [ ] URL de la página agregada
+- [x] Proyecto publicado en GitHub Pages
+- [x] URL de la página agregada
 
 ### 🔤 Google Fonts
 
@@ -93,7 +93,7 @@ Se aplicó un efecto **hover con escala** en las tarjetas, para dar mas incapie 
 
 ### 📱 Consideraciones
 
-- [ ] Diseño responsivo
+- [x] Diseño responsivo
 - [x] Uso de atributos alt en imágenes
 - [x] Comentarios explicativos en el código
 
